@@ -1,6 +1,6 @@
 # Ship Happens: The Stormy Seas of Supply Chain Security
 
-Thank you for attending the talk, please find enclosed a list of resources to learn more about Supply Chain Security. If you're attending OWASP Global AppSec Lisbon 2024 then please join us for some [Happy Hour](https://www.endorlabs.com/events/happy-hour-at-owasp-global-2024-appsec) drinks and appetizers! 
+Thank you for attending the talk, please find enclosed the [slides](/Ship%20Happens%20-%20Slides.pdf) and list of resources to learn more about Supply Chain Security. If you're attending OWASP Global AppSec Lisbon 2024 then please join us for some [Happy Hour](https://www.endorlabs.com/events/happy-hour-at-owasp-global-2024-appsec) drinks and appetizers! 
 
 ## Supply Chain Threat Model
 
